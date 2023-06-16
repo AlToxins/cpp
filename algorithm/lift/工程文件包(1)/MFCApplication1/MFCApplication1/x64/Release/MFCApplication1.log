@@ -1,0 +1,18 @@
+﻿  pch.cpp
+  MFCApplication1.cpp
+  MFCApplication1Dlg.cpp
+C:\Users\86150\source\repos\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(99,18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86150\source\repos\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(100,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86150\source\repos\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(100,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86150\source\repos\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(104,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86150\source\repos\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(105,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86150\source\repos\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(110,45): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86150\source\repos\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(119,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\86150\source\repos\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(964,26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\86150\source\repos\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(997,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  7 of 976 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  MFCApplication1.vcxproj -> C:\Users\86150\source\repos\MFCApplication1\x64\Release\MFCApplication1.exe

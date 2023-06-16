@@ -1,7 +1,0 @@
-﻿  moc newwidget.h
-  Product.cpp
-  main.cpp
-  newwidget.cpp
-  moc_Product.cpp
-  moc_newwidget.cpp
-  Product.vcxproj -> D:\WPSGit\week06\work\Product\x64\Release\Product.exe
